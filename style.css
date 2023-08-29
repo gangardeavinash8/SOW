@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.green{
+   
+    margin-left: 40%;
+     font-size: 30px;
+    /* border: 2px solid white; */
+    width: 50%;
+}
+
+.s1{
+    color: black;
+    display: flex;
+    justify-content: right;
+ 
+    display: inline-block;
+    
+}
+
